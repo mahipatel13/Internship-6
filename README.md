@@ -9,10 +9,16 @@ Run & wicket trends per season
 
 Toss impact on match results
 
+
 📦 Data
+
 Kaggle IPL Dataset
+
 Cleaned and enriched datasets
 
+
 🔧 Tech Used
+
 Pandas, Seaborn, Matplotlib
+
 Jupyter Notebook
