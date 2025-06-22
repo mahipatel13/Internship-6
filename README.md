@@ -1,5 +1,7 @@
 # IPL-Performance-Analysis_Project_6
+
 A deep-dive into Indian Premier League (IPL) data to evaluate teams, players, match results, and trends.
+
 
 📊 Insights Generated
 
